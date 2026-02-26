@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Assynx_X</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">🚀 Engineering Student | 🤖 AI & ML Enthusiast | 💻 Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
@@ -12,13 +10,13 @@
 - 🔭 Currently working on **ML & Image Processing projects**
 - 🌱 Learning **Deep Learning, NLP, and Advanced Python**
 - 💡 Interested in **real-world problem solving**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **abhishekar013@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,mysql,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,mysql,linux,vscode,autocad,nodejs,react,bootstrap,php" />
 </p>
 
 ---
@@ -55,7 +53,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abhishekar013@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/>
   </a>
 </p>
